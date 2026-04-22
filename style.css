@@ -1,0 +1,19 @@
+p, h1, h2, h3, h4, h5, h6{
+    font-family: 'Libre Franklin', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: #8212B0;
+    color: white;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.inLine{
+    display: inline-block;
+    margin: 10px;
+}
